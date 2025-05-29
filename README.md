@@ -43,4 +43,4 @@ This platform addresses key challenges in traditional crowdfunding: high platfor
 
 ## Contract details
 0x77aF44df2C27dE6C00e267755556896DAd44DF4A
-![alt text](image.png)
+![alt text](image.png) 
